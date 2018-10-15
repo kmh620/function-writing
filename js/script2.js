@@ -30,8 +30,3 @@ $(document).ready(function() {
     alert(reverseStep(lastStep(promptSentence)+sentencePlus(promptSentence)));
   });
 });
-
-
-// console.log(lastStep(promptSentence)+sentencePlus(promptSentence));
-// console.log (promptSentence.match(/^./));
-//console.log(reverseStep(lastStep(promptSentence)+sentencePlus(promptSentence)));
